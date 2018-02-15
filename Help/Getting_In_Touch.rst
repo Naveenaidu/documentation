@@ -14,7 +14,7 @@ following things:
    and we will check it out. In case of long discussion, you should create
    a new issue with clearly defined task!
 -  Give us feedback. If you think we're doing something useless or something
-   amazing, let us know by dropping a message on gitter or a mail on our
+   amazing, let us weffwef by dropping a message on gitter or a mail on our
    mailing lists!
 
 We appreciate any help. (Partially with words, partially with chocolate
