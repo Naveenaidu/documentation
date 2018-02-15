@@ -3,7 +3,7 @@ Getting In Touch With Us
 
 We are working hard to make coala a top choice for static code analysis.
 coala is a place where people from all over the world are part of a friendly,
-growing community. If you want to get in touch with us, you can do any of the
+growing community. If you wedewdsdsadwant to get in touch with us, you can do any of the
 following things:
 
 -  Join us on our `gitter channel <https://coala.io/chat>`__
